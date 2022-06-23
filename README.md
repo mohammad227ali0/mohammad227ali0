@@ -1,8 +1,6 @@
-(https://scontent.fdac8-1.fna.fbcdn.net/v/t39.30808-6/257543970_441167897624464_5426055847220287597_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeHey8Wo7YenLy9P2XyKPDwU3HpyOZM32FbcenI5kzfYVvvSKdZ9J47K_Be04ypLYCBcj1I_GUgkmEaNVrvaaORK&_nc_ohc=I2aR1qWKybMAX8Jq2wB&_nc_ht=scontent.fdac8-1.fna&oh=00_AT9WDatRmEi7pMkEMIi39swnm1hiWtbhrzbKjKOzoBwtNg&oe=62B9428A)
-
 ### Hi there 👋, I'm Mohammad Ali
 #### Web Developer
-![Web Developer]
+![Web Developer](https://scontent.fdac8-1.fna.fbcdn.net/v/t39.30808-6/257543970_441167897624464_5426055847220287597_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeHey8Wo7YenLy9P2XyKPDwU3HpyOZM32FbcenI5kzfYVvvSKdZ9J47K_Be04ypLYCBcj1I_GUgkmEaNVrvaaORK&_nc_ohc=I2aR1qWKybMAX8Jq2wB&_nc_ht=scontent.fdac8-1.fna&oh=00_AT9WDatRmEi7pMkEMIi39swnm1hiWtbhrzbKjKOzoBwtNg&oe=62B9428A)
 
 There is no substitute for hard work. Never give up. Never stop believing. Never stop fighting.
 
